@@ -1,4 +1,4 @@
-# Music-Album-Reviews
+# Music Album Reviews Sentiment Model
  
 **The Task:**
 
